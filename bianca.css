@@ -1,0 +1,35 @@
+button{
+  font-size:20px;
+}
+body{
+  width:600px;
+  background-color:lightgreen;
+}
+h1{
+  color:red;
+  background-color:pink;
+}
+h2{
+  color:lightblue;
+  background-color:purple;
+}
+p{
+  font-family:verdana;
+  font-size:15px;
+  text-align:center;
+}
+ol{
+  font-family:calibri;
+  color:yellow;
+  background-color:violet;
+}
+ul{
+  font-family:Arial;
+  color:yellow;
+  background-color:lightblue;
+}
+table{
+  color:red;
+  background-color:pink;
+  text-align:center;
+}
